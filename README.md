@@ -19,4 +19,4 @@ Technical documentation and diagrans for GAIA-X
 
 ## Documents
 
-- [Overall peaq Access](./peaq-access-control-and-gaia-x.md)
+- [peaq for GAIA-X](./peaq-access-control-and-gaia-x.md)
